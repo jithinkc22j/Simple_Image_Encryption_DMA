@@ -2,8 +2,10 @@
 This is a simple image encryption algorithm based on DMA (Diffused Mandelbrot set + Arnold map) system.
 
 This is a simple image encryption code for beginers to practice the matlab code. The code exploits the properties of mandelbrot set and arnold map and,it provides cipher image with maximum security.
+ 
+ Note: If you are using my code for your system or project, you should always cite my paper as a reference
+ <a href ="https://docs.google.com/document/d/1AbCxFoUhdOCppM8novgCdOv0F9mqYe7HlBU7yX7Svx0/edit?usp=sharing">Click here to see the publications.</a>
 
-Note: If you are using our code for your system or project, you should always cite our paper as a reference.K C.Jithin, SyamSankar, "Colour image encryption algorithm combining Arnold map, DNA sequence operation, and a Mandelbrot set",Journal of Information Security and Applications, Elsevier, Volume 50, February 2020,DOI: https://doi.org/10.1016/j.jisa.2019.102428
 
      a=imread('image.png') : Input your image 
      Input your initial values for arnold map
